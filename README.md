@@ -231,19 +231,6 @@ logistics-agent-learning-model01a/
 └── docs/
     └── loop-implementation.md   
 ```
-
----
-
-## Dependencies
-
-| Package | Version | Role |
-|---------|---------|------|
-| `anthropic` | ≥ 0.28 | Claude API client + tool-use |
-| `rich` | ≥ 13.0 | Terminal UI — tables, panels, spinners |
-| `pyomo` | ≥ 6.7 | MILP model definition |
-| `highspy` | ≥ 1.5 | HiGHS solver backend |
-| `pydantic` | ≥ 2.0 | Data validation and serialization |
-
 ---
 
 ## Acknowledgments
