@@ -60,7 +60,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+<p align="center">
 <img src="./cli.jpg" alt="Local File in Working Folder" width="900" />
+</p>
 
 ---
 
